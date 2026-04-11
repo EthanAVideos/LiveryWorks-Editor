@@ -24,7 +24,7 @@ Built-in Models: Models that are already configured for the editor, which can be
 Deves and other modders could also copy the Built-in Models feature and add and configure their own models for ease.
 
 ### Known Issues:
-**Live Preview: ** 
+**Live Preview:** 
 1. The Fit to Window feature is broken; clicking will cause the editor to crash. (FIXED) 
 2. Auto Refresh may cause slowness/laggy camera, and tool/logo movement. 
       
