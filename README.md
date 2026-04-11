@@ -3,7 +3,7 @@
 LiveryWorks Editor (LWE) is a program coded in Python. It allows you to load models and model textures in, and then load and apply a logo, with features that allow you to visually click where to place a selected logo, scale, rotate, and flip logos. Using non-destructive editing, meaning logos are visual overlays, not baked into the original texture.
 LWE would also work as a great tool for indie game devs to set up their game model, for ease of modders making liveries for that game.
 
-This program was made with the idea in mind to remove the back and forth of making a change to a texture, just to load it up in-game or reload in Blender just to find out you need to make a tweak to the placement of something. We wanted to add a more visible option to modding.
+This program was made with the idea in mind to remove the back and forth of making a change to a texture, just to load it up in-game or reload in Blender, just to find out you need to make a tweak to the placement of something. We wanted to add a more visible option to modding.
 
 LIVERYWORKS EDITOR IS STILL UNDER DEVELOPMENT, AND MAY HAVE ISSUES.
 
@@ -24,13 +24,12 @@ Built-in Models: Models that are already configured for the editor, which can be
 Deves and other modders could also copy the Built-in Models feature and add and configure their own models for ease.
 
 Known Issues:
-    Live Preview:  
-      The Fit to Window feature is broken; clicking will cause the editor to crash. (FIXED) 
+Live Preview:  
+The Fit to Window feature is broken; clicking will cause the editor to crash. (FIXED) 
+Auto Refresh may cause slowness/laggy camera, and tool/logo movement. 
       
-      Auto Refresh may cause slowness/laggy camera, and tool/logo movement. 
-      
-  Built-in Models:
-    Some UV issues with models, so some playing around may be needed.
+Built-in Models:
+Some UV issues with models, so some playing around may be needed.
 
 # Other
 First Public Release/Repo of LWE: 1.4.7 Built 4. April 11th 2026.
