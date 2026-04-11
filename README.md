@@ -18,9 +18,9 @@ Currently, private release, public delayed due to major bugs.
 
 ## Quality of Life 0.1.3.
 Features:
-Live Preview: Allows you to preview logo placement and changes live instead of exporting the texture.
-Console: This addon has mainly been built into the core editor; however, QOL Console still manages some small stuff.
-Built-in Models: Models that are already configured for the editor, which can be imported via a dropdown when the addon is installed and active.
+1. Live Preview: Allows you to preview logo placement and changes live instead of exporting the texture.
+2. Console: This addon has mainly been built into the core editor; however, QOL Console still manages some small stuff.
+3. Built-in Models: Models that are already configured for the editor, which can be imported via a dropdown when the addon is installed and active.
 Deves and other modders could also copy the Built-in Models feature and add and configure their own models for ease.
 
 ### Known Issues:
