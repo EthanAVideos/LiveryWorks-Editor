@@ -27,8 +27,9 @@ Known Issues:
     Live Preview:  
       The Fit to Window feature is broken; clicking will cause the editor to crash. (FIXED) 
       Auto Refresh may cause slowness/laggy camera, and tool/logo movement. 
+      
   Built-in Models:
-    Some UV issues with models and therefore, some playing around may be needed.
+    Some UV issues with models, so some playing around may be needed.
 
 # Other
 First Public Release/Repo of LWE: 1.4.7 Built 4. April 11th 2026.
