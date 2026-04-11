@@ -1,0 +1,37 @@
+April 11, 2026. 1.4.7 Build 4.
+    Officaly named the editor LiveryWorks Editor a.k.a LWE.
+    Added Start up help window.
+    Added limited support for addons.
+    Added license registration, check and manager.
+
+March 22, 2026. 1.3.6 Build 3.
+    Tried to have a one in all specific UV system that would work for all models, sadly and most obviously this did not work:
+    We have not overhualed, but rebuilt the UV system, adding new tools. Models must be trial and error when setting them up (Make Editor Supportive Models). once set up, you export a specific UV
+    config file for that model that will be loaded when loading the model. (The old UV system was one of the long time, hold back to release, and issues sence V1.2.6.)
+
+
+March 21, 2026. 1.2.6 Build 2.
+    Fixed a bug with PNG alpha channeling handling, and texture settings. This would cause a red blank box to appear, wiht no visible logo, while you could position this box and export,
+    it was fairly hard to get things perfect, and invalid, playing around with export, view, adjust, and repeat. Which defects the perpose of this software.
+    Added a movement gizmo for selected logo to serve as fine tuning, vs the movement mode, where you click on the model and the logo jumps, which will be kept and serve as a quick, and
+    rought placement mode.
+    You can now drag the side panel larger or smaller, and when contents are two long, it becomes scrollable.
+    Fixed a major editor placement and rotation vs exported issue, this issue appeard from changes to this version.
+    Fixed a major UV mapping different vs the editor and exported version, this issue appeard from changes to this version.
+    Added support back for GLB, and GLTF this was the base accepted formats until v1.2.6 and the was removed.
+
+March 21, 2026. 1.2.6 Build 1.
+    Sadly due to major limitations, and hours of work arounds, the more compatibly version was scrapped.
+
+    This model using Python, and librarys: OpenGL, PyQt5, Numpy, Pillow, and Trimesh.
+    Supports 3D models in the formats of OBJ, STL, and PLY formats.
+    Fixes major texture and UV mapping display issues.
+    Can load multiple logos of the format PNG, JPG, and BMP.
+    Non-destructive editing: Logos are visual overlays, not baked into original texture
+    Major fix with exporting, preserves original model and texture and creates a copy with logos overlaid on the texture.
+    Intuitive controls: Mouse-driven camera and logo placement.
+    Professional UI: Grouped panels with clear hierarchy.
+
+    Versions this application was built on: Python 3.13.5, pip 25.1.1.
+    PyOpenGL-3.1.10, PyQt5-5.15.11 PyQt5-Qt5-5.15.18 PyQt5-sip-12.18.0.
+    Numpy 2.2.4, Pillow 11.1.0, Trimesh 4.5.1.

@@ -1,0 +1,8 @@
+PyQt5
+PyOpenGL
+numpy
+pillow
+trimesh
+
+
+--break-system-packages
