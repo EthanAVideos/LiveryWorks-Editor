@@ -26,6 +26,7 @@ Deves and other modders could also copy the Built-in Models feature and add and 
 Known Issues:
 Live Preview:  
 The Fit to Window feature is broken; clicking will cause the editor to crash. (FIXED) 
+
 Auto Refresh may cause slowness/laggy camera, and tool/logo movement. 
       
 Built-in Models:
