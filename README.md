@@ -23,14 +23,13 @@ Console: This addon has mainly been built into the core editor; however, QOL Con
 Built-in Models: Models that are already configured for the editor, which can be imported via a dropdown when the addon is installed and active.
 Deves and other modders could also copy the Built-in Models feature and add and configure their own models for ease.
 
-Known Issues:
-Live Preview:  
-The Fit to Window feature is broken; clicking will cause the editor to crash. (FIXED) 
-
-Auto Refresh may cause slowness/laggy camera, and tool/logo movement. 
+### Known Issues:
+**Live Preview: ** 
+1. The Fit to Window feature is broken; clicking will cause the editor to crash. (FIXED) 
+2. Auto Refresh may cause slowness/laggy camera, and tool/logo movement. 
       
-Built-in Models:
-Some UV issues with models, so some playing around may be needed.
+**Built-in Models:**
+1. Some UV issues with models, so some playing around may be needed.
 
 # Other
 First Public Release/Repo of LWE: 1.4.7 Built 4. April 11th 2026.
