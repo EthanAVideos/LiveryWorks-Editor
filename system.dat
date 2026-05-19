@@ -1,0 +1,6 @@
+Build: 6
+editor: 1.5.8
+addons
+    qol: 0.1.3
+    svgnodeeditor: 0.3.5
+    licensemanager: 1.0.0
