@@ -2,7 +2,7 @@
   "SVGNodeEditor": {
     "enabled": "true",
     "author": "EthanA videos",
-    "version": "0.3.5",
+    "version": "0.3.6",
     "description": "SVG Logo Editor with Node Editing Mode - Load SVG files and edit their nodes",
     "addonFile": "SVGNodeEditor/addon.py"
   }
