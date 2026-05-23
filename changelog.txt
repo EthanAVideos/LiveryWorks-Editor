@@ -1,3 +1,23 @@
+May 23, 2026 1.6.9 Build 8.
+    Fixes:
+        Moved the logo from the bottom right to the top left.
+        Redesigned the base watermake.
+
+May 22, 2026. 1.6.8 Build 7.
+    EAVCFM Installer:
+        Version 2.3.2 Build 8 introduces the option to have the installer install your downloaded addon packages.
+        Along with behind the scene changes to make implimenting future features easier.
+    Editor Fixes:
+        There was an issue when "Exporting Model with Logos" where you are prmpted to name the file, but the editor would force export the name to be related to the model, or addon model process.
+        This was not conveiane when modding games that use specific case sensitive naming, like Flashing Lights.
+        Fixed issues with toggle_grid, reset_view, and ModelViewer which issues became appearint when updating the export_model.
+    Editor New:
+        Added a new window that when "Export Model with Logos" is clicked it appears. The Final Save Options window offers four to features.
+        1. Image Compression: Defualt it 85%, you may choose the compression rate at which you texture is saved to, 0 for no compression, and higher value via the slider for more.
+        2. Optimize: When clicked it applize compression, and if the texture is larger then 1024x1024 is scales it to that.
+        3. Color Mode: You may select between RGBA 8/16 or RGB 8/16, but take note is it warns in the window: Some games don't support the Alpha channel/opacity.
+        4. Watermark: You may choose to export a watermark onto the exported texture via checking a box, you may replace the defualt LWE watermark in logos/watermark.png
+
 May 16 - 19, 2026. 1.5.8 Build 6.
     Built bash installer script, and introduced 0.3.2 Build 1 of it.
     EDITOR:

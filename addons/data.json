@@ -1,12 +1,12 @@
 {
-    "addonSystem": {
+  "addonSystem": {
     "checkForAddons": "true",
     "loadAddons": "true",
-    "license": "unregistered"
+    "license": ""
   },
-    "LicenseManager": {
+  "LicenseManager": {
     "enabled": "true",
-    "author": "EthanA Videos",
+    "author": "Ethan",
     "version": "1.0.0",
     "description": "License validation and management",
     "addonFile": "LicenseManager/addon.py"
