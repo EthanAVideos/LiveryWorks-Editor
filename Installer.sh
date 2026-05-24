@@ -74,8 +74,8 @@ BAR_LENGTH=50
 TARGET_DIR="$HOME/Documents/LWE"
 
 #Downloadables
-ZIP_URL="https://github.com/EthanAVideos/LiveryWorks-Editor/releases/download/1.5.8.B6/LiveryWorks_Editor1586.zip"
-TEMP_ZIP="/tmp/LiveryWorks_Editor1586.zip"
+ZIP_URL="https://github.com/EthanAVideos/LiveryWorks-Editor/releases/download/1.6.9.B8/LiveryWorks_Editor1698.zip"
+TEMP_ZIP="/tmp/LiveryWorks_Editor1698.zip"
 
 # Clear and set background for entire row
 fill_row() {
